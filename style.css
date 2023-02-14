@@ -1,0 +1,56 @@
+.hd{
+    background-color:orangered;
+}
+
+img{
+    top: 100px;
+    float: left;
+    width: 300px;
+    height: 600px;
+    object-fit: fill;
+    padding: 1px;
+}
+.container-fluid{
+    background-color: rgb(243, 53, 170);
+    
+}
+.bg{
+    background-image: url(temp/image/banner2_.jpg);
+}
+.hd{
+    font-family:sans-serif;
+    background-color: magenta;
+    width: 160px;
+}
+.ig{
+    top: 450px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom: 0;
+    right: 50px;
+    left: 20px;
+
+}
+.par{
+    width: 1130px;
+    max-width:95%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.parone{
+    width: 1130px;
+    max-width:95%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+}
+.hd1{
+    font-family:sans-serif;
+    background-color: magenta;
+    width: 210px;
+
+}
